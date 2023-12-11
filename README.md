@@ -10,3 +10,7 @@ If you cant make sense of something. Here is the version i made with tinkercad.
 In this tinker the board is an Arduino Uno but in the project a Arduino nano 33 IoT was used.
 
 <img width="591" alt="lightdetector arudino" src="https://github.com/Cefucr/light_Detector/assets/105347805/d185161d-7d58-489c-85b2-0e8cbf90eb00">
+
+
+The server side code takes the values from the arduino and puts them into a file named knowledge.txt.
+The code then reads said file and outputs the values onto the webpage.
