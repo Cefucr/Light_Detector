@@ -4,7 +4,7 @@ A simple lightdetector made with arduino and php
 The password,ssid and address have been removed for obvious reasons :>.
 
 Here is a picture of the arduino:
-![arduino](https://github.com/Cefucr/light_Detector/assets/105347805/ca386e4e-09d5-4fd4-bbda-b8e6d10391d7)
+<img width="50" alt="arudino" src="https://github.com/Cefucr/light_Detector/assets/105347805/ca386e4e-09d5-4fd4-bbda-b8e6d10391d7">
 
 If you cant make sense of something. Here is the version i made with tinkercad. 
 In this tinker the board is an Arduino Uno but in The project a Arduino nano 33 IoT was used.
