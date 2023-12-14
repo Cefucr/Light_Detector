@@ -1,6 +1,6 @@
 # light_Detector
 
-A simple lightdetector made with arduino and php. @unn0o 
+A simple lightdetector made with arduino and php. Made in collaboration with <a href="https://github.com/Unn0o">@unn0o</a> 
 
 The password,ssid and address have been removed for obvious reasons :>.
 
